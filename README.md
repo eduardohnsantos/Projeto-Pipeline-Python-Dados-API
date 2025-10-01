@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)]()
 
 Este repositório contém um **pipeline de dados em Python** que integra informações climáticas do **OpenWeatherMap** e de qualidade do ar do **OpenAQ**.  
-O fluxo segue as etapas de **extração → transformação → qualidade de dados → carga (ETL)** e persiste os dados em formato **Parquet particionado**.
+O fluxo segue as etapas de **extração → transformação → qualidade de dados → carga (ETL)** e persiste os dados em formato **CSV**.
 
 ---
 
